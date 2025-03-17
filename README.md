@@ -1,5 +1,3 @@
-# Dashboard_hospital_Emergency_Room
-
 # Hospital Emergency Room Analysis - Excel Project
 
 ## 📌 Project Overview
